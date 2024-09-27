@@ -15,11 +15,11 @@ back-end para que eu possa no futuro ser um programador full stack e ajudar gran
 <p>Quero morar na Suiça 🇨🇭, gosto de jogos de fps🔫, carros🚗 e adoro ler mangás.E amo cachorros Golden retriever🐕</p>
 <h1>Estou aprendendo⌛</h1>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.png" />
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.png" />
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.png" />
 
 <p><img src="https://media1.tenor.com/m/Q5LEaA7QrXEAAAAC/tom-and-jerry-jerry-mouse.gif"/></p>
 
