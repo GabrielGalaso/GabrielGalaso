@@ -15,7 +15,7 @@ back-end para que eu possa no futuro ser um programador full stack e ajudar gran
 <p>Quero morar na Suiça 🇨🇭, gosto de jogos de fps🔫, carros🚗 e adoro ler mangás.E amo cachorros Golden retriever🐕</p>
 <h1>Estou aprendendo⌛</h1>
 
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.png" />
+            <img src="[html5](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nerdstickers.com.br%2Fstickers%2Fadesivos-de-tecnologia%2Fhtml5%2F&psig=AOvVaw1NV2UfpCQ7gy7sA0uP3aMi&ust=1727551417448000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCNxdjs44gDFQAAAAAdAAAAABAE)" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.png" />
             
