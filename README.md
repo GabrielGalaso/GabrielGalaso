@@ -9,8 +9,7 @@ Porém a área que me chama mais atenção é front-end e bakc-end, atualmente  
 back-end para que eu possa no futuro ser um programador full stack e ajudar grandes empresas.</p>
 <h1>Entrar em contato comigo?📫</h1>
 <p>Meu instagram e meu discord é a melhor forma de contato que eu tenho atualmente!
-<a href="https://www.instagram.com/gabriel_galaso1/">Meu Instagram</a> e meu nick no discord<br>
-é gabriel_hg1#3084</p>
+<a href="https://www.instagram.com/gabriel_galaso1/">Meu Instagram</a> e meu e-mail de contato é esse gabrielhenriquegalaso@gmail.com</p>
 <h1>Curiosidades⚡</h1>
 <p>Quero morar na Suiça 🇨🇭, gosto de jogos de fps🔫, carros🚗 e adoro ler mangás.E amo cachorros Golden retriever🐕</p>
 <h1>Estou aprendendo⌛</h1>
