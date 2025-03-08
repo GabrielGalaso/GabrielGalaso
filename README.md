@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Eu sou o Gabriel, um desenvolvedor apaixonado por transformar ideias em código. 🚀 </h2>
+<h2 align="left">Oi! Eu sou o Gabriel, um desenvolvedor apaixonado por transformar ideias em código. </h2>
 
   🚀 **Sobre mim**
    
