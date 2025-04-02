@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/732/732220.png" height="30" alt="css3 logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/256/732/732220.png" height="30" alt="Excel logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="30" alt="css3 logo"  />
   <img width="12" />
 </div>
 
