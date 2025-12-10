@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Eu sou o Gabriel, um estudando de TI capaz de transformar ideias em código. </h2>
+<h2 align="left">Oi! Eu sou o Gabriel, estudante de TI capaz de transformar ideias em código. </h2>
 
   🚀 **Sobre mim**
    
