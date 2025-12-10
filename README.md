@@ -21,10 +21,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="30" alt="SQL logo"  />
+  <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/256/732/732220.png" height="30" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="30" alt="css3 logo"  />
+  <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="30" alt="PowerBI logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" height="30" alt="SQL logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
