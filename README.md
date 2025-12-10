@@ -1,12 +1,8 @@
-<h2 align="left">Oi! Eu sou o Gabriel, um desenvolvedor apaixonado por transformar ideias em código. </h2>
+<h2 align="left">Oi! Eu sou o Gabriel, um estudando de TI capaz de transformar ideias em código. </h2>
 
   🚀 **Sobre mim**
    
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
-
-💡 Apaixonado por tecnologia e desenvolvimento web.  
-
-🎯 Aprendendo no **Front-end** e, futuramente, **Back-end** para me tornar um **Full Stack Developer**.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Período 5).  
 
 
 ###
