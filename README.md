@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" height="30" alt="SQL logo"  />
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/java/original.svg" height="30" alt="Java logo"  />
+  <img width="12" />
   
 </div>
 
