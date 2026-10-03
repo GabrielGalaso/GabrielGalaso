@@ -1,4 +1,4 @@
-<h2 align="left">Oi! Eu sou o Gabriel, estudante de TI capaz de transformar ideias em código. </h2>
+<h2 align="left">Oi! Seja bem vindo ao meu perfil, espero que goste 😉</h2>
 
   🚀 **Sobre mim**
    
@@ -50,8 +50,7 @@
 
 <br clear="both">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzn4x5pnzpqgwll637crlrh4a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qyzn4x5pnzpqgwll637crlrh4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ###
 
 <img align="center" height="" width="700px" src="https://i.gifer.com/KtXV.gif" />
